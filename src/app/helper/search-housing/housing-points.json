@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "price": 400000,
+        "type": "apartment",
+        "size": 230,
+        "bedrooms": 5,
+        "bathroom": 2,
+        "kitchen": 2,
+        "location": "mecca"
+      },
+      "geometry": {
+        "coordinates": [
+          39.76364685298387,
+          21.45550391050449
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "price": 450000,
+        "type": "apartment",
+        "size": 200,
+        "bedrooms": 5,
+        "bathroom": 2,
+        "kitchen": 1,
+        "location": "mecca"
+      },
+      "geometry": {
+        "coordinates": [
+          39.76187831861884,
+          21.453719613010477
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "price": 750000,
+        "type": "apartment",
+        "size": 300,
+        "bedrooms": 5,
+        "bathroom": 2,
+        "kitchen": 1,
+        "location": "mecca"
+      },
+      "geometry": {
+        "coordinates": [
+          39.768323595491154,
+          21.452880666677345
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "price": 750000,
+        "type": "house",
+        "size": 500,
+        "bedrooms": 8,
+        "bathroom": 4,
+        "kitchen": 2,
+        "location": "mecca"
+      },
+      "geometry": {
+        "coordinates": [
+          39.78421566551566,
+          21.438961950263618
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "price": 950000,
+        "type": "house",
+        "size": 600,
+        "bedrooms": 5,
+        "bathroom": 2,
+        "kitchen": 1,
+        "location": "mecca"
+      },
+      "geometry": {
+        "coordinates": [
+          39.78832959779382,
+          21.508995241656677
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "price": 1250000,
+        "type": "house",
+        "size": 700,
+        "bedrooms": 9,
+        "bathroom": 6,
+        "kitchen": 2,
+        "location": "mecca"
+      },
+      "geometry": {
+        "coordinates": [
+          39.88966940579198,
+          21.359287557156946
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "price": 250000,
+        "type": "house",
+        "size": 150,
+        "bedrooms": 4,
+        "bathroom": 2,
+        "kitchen": 1,
+        "location": "mecca"
+      },
+      "geometry": {
+        "coordinates": [
+          39.79362530121796,
+          21.390182019419328
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "price": 300000,
+        "type": "house",
+        "size": 300,
+        "bedrooms": 3,
+        "bathroom": 2,
+        "kitchen": 1,
+        "location": "mecca"
+      },
+      "geometry": {
+        "coordinates": [
+          39.79017238029596,
+          21.386452665528523
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "price": 550000,
+        "type": "house",
+        "size": 500,
+        "bedrooms": 5,
+        "bathroom": 2,
+        "kitchen": 2,
+        "location": "mecca"
+      },
+      "geometry": {
+        "coordinates": [
+          39.93738847734673,
+          21.46570224750674
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "price": 750000,
+        "type": "house",
+        "size": 500,
+        "bedrooms": 5,
+        "bathroom": 2,
+        "kitchen": 2,
+        "location": "mecca"
+      },
+      "geometry": {
+        "coordinates": [
+          39.950718941487565,
+          21.468038385166835
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

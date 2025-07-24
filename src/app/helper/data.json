@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Yaser Jambi",
+    "role": "Senior Frontend Developer",
+    "status": "Remote",
+    "performanceIndicator": 90,
+    "location": {
+      "lat": 24.32,
+      "lng": 46.29
+    },
+    "city": "Riyadh"
+  },
+  {
+    "name": "Saeed Ahmed",
+    "role": "Senior Frontend Developer",
+    "status": "Onsite",
+    "performanceIndicator": 75,
+    "location": {
+      "lat": 22.96,
+      "lng": 42.15
+    },
+    "city": "Central Region"
+  },
+  {
+    "name": "Fatimah Alzahraa",
+    "role": "UI Designer",
+    "status": "Onsite",
+    "performanceIndicator": 80,
+    "location": {
+      "lat": 23.45,
+      "lng": 44.31
+    },
+    "city": "Central Region"
+  },
+  {
+    "name": "Abdullah Alotaibi",
+    "role": "Project Manager",
+    "status": "Onsite",
+    "performanceIndicator": 85,
+    "location": {
+      "lat": 24.77,
+      "lng": 46.67
+    },
+    "city": "Riyadh"
+  },
+  {
+    "name": "Khalid Alshareef",
+    "role": "Backend Developer",
+    "status": "Onsite",
+    "performanceIndicator": 70,
+    "location": {
+      "lat": 21.59,
+      "lng": 39.82
+    },
+    "city": "Mecca"
+  },
+  {
+    "name": "Ameera Mansour",
+    "role": "QA Tester",
+    "status": "Remote",
+    "performanceIndicator": 65,
+    "location": {
+      "lat": 22.73,
+      "lng": 43.18
+    },
+    "city": "Central Region"
+  },
+  {
+    "name": "Mohammed Aljuhani",
+    "role": "Backend Developer",
+    "status": "Remote",
+    "performanceIndicator": 88,
+    "location": {
+      "lat": 23.88,
+      "lng": 45.05
+    },
+    "city": "Riyadh"
+  },
+  {
+    "name": "Sarah Alali",
+    "role": "Backend Developer",
+    "status": "Onsite",
+    "performanceIndicator": 64,
+    "location": {
+      "lat": 21.63,
+      "lng": 40.37
+    },
+    "city": "Mecca"
+  },
+  {
+    "name": "Layla Alharbi",
+    "role": "Senior Backend Developer",
+    "status": "Remote",
+    "performanceIndicator": 83,
+    "location": {
+      "lat": 22.84,
+      "lng": 41.27
+    },
+    "city": "Central Region"
+  },
+  {
+    "name": "Rami Alsaadi",
+    "role": "Frontend Developer",
+    "status": "Remote",
+    "performanceIndicator": 33,
+    "location": {
+      "lat": 24.18,
+      "lng": 46.05
+    },
+    "city": "Riyadh"
+  },
+  {
+    "name": "Nourah Almutairi",
+    "role": "Scrum Master",
+    "status": "Remote",
+    "performanceIndicator": 86,
+    "location": {
+      "lat": 23.05,
+      "lng": 42.95
+    },
+    "city": "Central Region"
+  },
+  {
+    "name": "Omar Alhazmi",
+    "role": "DevOps Engineer",
+    "status": "Onsite",
+    "performanceIndicator": 79,
+    "location": {
+      "lat": 22.63,
+      "lng": 41.58
+    },
+    "city": "Central Region"
+  },
+  {
+    "name": "Reem Alshammari",
+    "role": "Business Analyst",
+    "status": "Remote",
+    "performanceIndicator": 22,
+    "location": {
+      "lat": 24.01,
+      "lng": 44.89
+    },
+    "city": "Riyadh"
+  },
+  {
+    "name": "Hassan Alqahtani",
+    "role": "Senior Backend Developer",
+    "status": "Onsite",
+    "performanceIndicator": 72,
+    "location": {
+      "lat": 21.71,
+      "lng": 39.61
+    },
+    "city": "Mecca"
+  },
+  {
+    "name": "Dalia Alabdulkarim",
+    "role": "Mobile Developer",
+    "status": "Remote",
+    "performanceIndicator": 89,
+    "location": {
+      "lat": 22.27,
+      "lng": 43.73
+    },
+    "city": "Central Region"
+  },
+  {
+    "name": "Tariq Alomari",
+    "role": "Tech Lead",
+    "status": "Remote",
+    "performanceIndicator": 94,
+    "location": {
+      "lat": 24.55,
+      "lng": 46.12
+    },
+    "city": "Riyadh"
+  }
+]

@@ -1,0 +1,11 @@
+<div class="filter-challenge d-flex flex-column">
+  <h3>Filter List</h3>
+
+  <div class="w-100 d-flex flex-wrap   gap-2">
+    <ng-container *ngFor="let item of keysObjects">
+      <ng-select class="ngx-select-custom" (change)="filter()" [items]="filterList[item]" [(ngModel)]="filterData[item]"
+        placeholder="select {{item}}" multiple="true">
+      </ng-select>
+    </ng-container>
+  </div>
+</div>

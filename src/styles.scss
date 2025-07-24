@@ -1,0 +1,84 @@
+// Custom Theming for Angular Material
+// For more information: https://material.angular.dev/guide/theming
+@use '@angular/material' as mat;
+@use 'bootstrap/scss/bootstrap';
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  font-family: 'Tajawal', sans-serif;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  font-family: 'Tajawal', sans-serif;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+
+
+
+
+
+
+.ng-select.ng-select-single .ng-select-container .ng-value-container,
+.ng-select.ng-select-single .ng-select-container .ng-value-container .ng-value {
+  overflow: visible !important;
+  background-color: #65b4f3 !important;
+  padding: 5px !important;
+  gap: 3px !important;
+
+}
+
+
+.ng-option-marked {
+  background-color: #65b4f3 !important;
+}
+
+.ng-select.ng-select-multiple .ng-select-container .ng-value-container .ng-value {
+  overflow: visible !important;
+  background-color: #65b4f3 !important;
+}
+
+.ng-select .ng-select-container {
+  color: #fff !important;
+  background-color: #323539 !important;
+}
+
+.ng-select .ng-select-opened .ng-select-bottom {
+  background: #323539 !important;
+}
+
+.ng-dropdown-panel .ng-dropdown-panel-items .ng-option {
+  background: #323539 !important;
+  color: #fff !important;
+}
+
+.ng-dropdown-panel .ng-dropdown-panel-items .ng-option:hover {
+  background-color: #65b4f3 !important;
+  color: #fff !important;
+}
+
+.ng-select .ng-select-container .ng-value-container .ng-placeholder {
+  color: #fff !important;
+  margin-right: 10px !important;
+}
